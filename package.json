@@ -1,0 +1,19 @@
+{
+  "name": "js-test-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Sathishkumar Raja",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.6.3"
+  },
+  "jest": {
+    "testMatch": [
+      "**/5.js"
+    ]
+  }
+}
